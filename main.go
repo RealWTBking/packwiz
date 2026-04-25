@@ -2,14 +2,14 @@ package main
 
 import (
 	// Modules of packwiz
-	"github.com/0byte-coding/packwiz/cmd"
-	_ "github.com/0byte-coding/packwiz/curseforge"
-	_ "github.com/0byte-coding/packwiz/github"
-	_ "github.com/0byte-coding/packwiz/migrate"
-	_ "github.com/0byte-coding/packwiz/modrinth"
-	_ "github.com/0byte-coding/packwiz/settings"
-	_ "github.com/0byte-coding/packwiz/url"
-	_ "github.com/0byte-coding/packwiz/utils"
+	"github.com/RealWTBking/packwiz/cmd"
+	_ "github.com/RealWTBking/packwiz/curseforge"
+	_ "github.com/RealWTBking/packwiz/github"
+	_ "github.com/RealWTBking/packwiz/migrate"
+	_ "github.com/RealWTBking/packwiz/modrinth"
+	_ "github.com/RealWTBking/packwiz/settings"
+	_ "github.com/RealWTBking/packwiz/url"
+	_ "github.com/RealWTBking/packwiz/utils"
 )
 
 func main() {

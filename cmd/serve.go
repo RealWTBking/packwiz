@@ -14,7 +14,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/0byte-coding/packwiz/core"
+	"github.com/RealWTBking/packwiz/core"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

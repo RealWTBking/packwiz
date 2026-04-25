@@ -1,7 +1,7 @@
 package migrate
 
 import (
-	"github.com/0byte-coding/packwiz/cmd"
+	"github.com/RealWTBking/packwiz/cmd"
 	"github.com/spf13/cobra"
 )
 

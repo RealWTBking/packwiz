@@ -3,7 +3,7 @@ package cmdshared
 import (
 	"archive/zip"
 	"fmt"
-	"github.com/0byte-coding/packwiz/core"
+	"github.com/RealWTBking/packwiz/core"
 	"io"
 	"os"
 	"path"

@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/0byte-coding/packwiz/cmdshared"
+	"github.com/RealWTBking/packwiz/cmdshared"
 
 	"slices"
 
-	"github.com/0byte-coding/packwiz/core"
+	"github.com/RealWTBking/packwiz/core"
 	"github.com/spf13/cobra"
 )
 

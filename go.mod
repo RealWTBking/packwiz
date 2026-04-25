@@ -1,4 +1,4 @@
-module github.com/0byte-coding/packwiz
+module github.com/RealWTBking/packwiz
 
 require (
 	github.com/BurntSushi/toml v1.5.0

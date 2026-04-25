@@ -6,8 +6,8 @@ import (
 	"slices"
 	"strings"
 
-	"github.com/0byte-coding/packwiz/cmdshared"
-	"github.com/0byte-coding/packwiz/core"
+	"github.com/RealWTBking/packwiz/cmdshared"
+	"github.com/RealWTBking/packwiz/core"
 	"github.com/spf13/cobra"
 	"github.com/unascribed/FlexVer/go/flexver"
 )
